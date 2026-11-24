@@ -4,6 +4,8 @@ Site para ajudar alunos a encontrar **blocos, salas, restaurantes e cafeterias**
 
 Projeto acadêmico em equipe do 1º semestre de Engenharia de Software (2025).
 
+> Esta é a versão que ficou guardada. A versão final entregue tinha páginas para mais blocos do campus.
+
 ---
 
 ## 👩‍💻 Minha participação
